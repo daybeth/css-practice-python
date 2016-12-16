@@ -134,14 +134,14 @@
 	line-height: 1.5;
 }
 #main-content{
-	height:220px;
+	height:195px;
 	font-family: arial;
 	font-size: 13px;
 	margin-top: 15px;
 }
 
 .content-box {
-	width: 30%;
+	width: 31%;
 	text-align: center;
 	display: inline-block;
 	vertical-align: top;
@@ -163,6 +163,7 @@ text-decoration: none;
 padding-right: 50px;
 }
 #footer{
+	width: 1000px;
 	height: 60px;
 	font-size: 16px;
 	font-family: arial;
